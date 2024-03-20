@@ -1,0 +1,15 @@
+{
+  "name": "simple_server2-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newserver.js",
+  "scripts": {
+    "start": "node newserver.js"
+  },
+  "keywords": [],
+  "author": "kingsley chukwuani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
